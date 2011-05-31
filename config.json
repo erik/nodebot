@@ -7,5 +7,6 @@
       "channels" : ["#tempchan", "#otherchan"]
     }
   },
-  "commands" : []
+  "commands" : ["testCmd", "join"],
+  "prefix"   : "!"
 }
