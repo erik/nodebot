@@ -1,0 +1,10 @@
+{
+  "networks" : {
+    "ninthbit" : {
+      "server" : "irc.ninthbit.net",
+      "port"   : 6667,
+      "nick"   : "nodebot",
+      "channels" : ["#tempchan", "#otherchan"]
+    }
+  }
+}
