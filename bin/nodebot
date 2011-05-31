@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+require.paths.unshift(require('path').join(__dirname, '../lib'));
+
+var config = require('config'),
+    bot = require('bot');
+
+
+var networks = config.load();
+
+var ircBot = new bot.Bot(networks);

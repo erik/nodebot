@@ -6,5 +6,6 @@
       "nick"   : "nodebot",
       "channels" : ["#tempchan", "#otherchan"]
     }
-  }
+  },
+  "commands" : []
 }
