@@ -4,7 +4,8 @@
       "server" : "irc.ninthbit.net",
       "port"   : 6667,
       "nick"   : "nodebot",
-      "channels" : ["#tempchan", "#otherchan"]
+      "channels" : ["#tempchan", "#otherchan"],
+      "admins" : ["boredomist", "somenick"]
     }
   },
   "plugins" : ["testPlugin", "join"],
