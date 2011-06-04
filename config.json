@@ -8,6 +8,6 @@
       "admins" : ["boredomist", "somenick"]
     }
   },
-  "plugins" : ["testPlugin", "join", "git", "eval"],
+  "plugins" : ["testPlugin", "join", "git", "eval", "osinfo"],
   "prefix"   : "!"
 }
